@@ -1,4 +1,4 @@
-silvias_age = 28
+silvias_age = 26
 
 olegs_age = silvias_age + 1
 
